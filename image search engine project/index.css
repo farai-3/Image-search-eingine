@@ -1,0 +1,19 @@
+*, *::before, *::after{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins' , sans-serif;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color:burlywood;
+    color:white;
+}
+
+body h1{
+    justify-content: center;
+    text-align: center;
+    margin: 200px auto 50px;
+    font-weight: 1000px;
+}
